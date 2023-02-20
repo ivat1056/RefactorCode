@@ -130,7 +130,7 @@ namespace RefactorCode
                 }
 
             }
-            Console.WriteLine($"; F = {pathes[ind][pathes[ind].Length - 1]}");
+            Console.WriteLine($"; F = {pathes[ind][pathes[ind].Length - 1]}"); // вывод критического пути 
         }
     }
 }
